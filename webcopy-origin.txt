@@ -1,0 +1,436 @@
+Uri: https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\morphism.agency\npm\gsap@3.12.5\dist\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\morphism.agency\npm\swiper@11\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\morphism.agency\npm\swiper@11\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js
+File Name: C:\Downloaded Web Sites\morphism.agency\ajax\libs\gsap\3.12.5\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://morphism.agency/
+File Name: C:\Downloaded Web Sites\morphism.agency\index.htm
+Content Type: text/html
+
+Uri: https://morphism.agency/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\morphism.agency\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://morphism.agency/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\morphism.agency\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://morphism.agency/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\morphism.agency\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://morphism.agency/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\morphism.agency\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://morphism.agency/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\morphism.agency\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://morphism.agency/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\morphism.agency\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://morphism.agency/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\morphism.agency\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://morphism.agency/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\morphism.agency\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://morphism.agency/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\morphism.agency\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://morphism.agency/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\morphism.agency\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://morphism.agency/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\morphism.agency\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://morphism.agency/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\morphism.agency\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://morphism.agency/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\morphism.agency\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://morphism.agency/css/style.min.css
+File Name: C:\Downloaded Web Sites\morphism.agency\css\style.min.css
+Content Type: text/css
+
+Uri: https://morphism.agency/en/
+File Name: C:\Downloaded Web Sites\morphism.agency\en\index.htm
+Content Type: text/html
+
+Uri: https://morphism.agency/en/index.html
+File Name: C:\Downloaded Web Sites\morphism.agency\en\index.html
+Content Type: text/html
+
+Uri: https://morphism.agency/fonts/Inter-Medium.woff
+File Name: C:\Downloaded Web Sites\morphism.agency\fonts\Inter-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://morphism.agency/fonts/Inter-Medium.woff2
+File Name: C:\Downloaded Web Sites\morphism.agency\fonts\Inter-Medium.woff2
+Content Type: application/octet-stream
+
+Uri: https://morphism.agency/fonts/Inter-Regular.woff
+File Name: C:\Downloaded Web Sites\morphism.agency\fonts\Inter-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://morphism.agency/fonts/Inter-Regular.woff2
+File Name: C:\Downloaded Web Sites\morphism.agency\fonts\Inter-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://morphism.agency/fonts/SFProDisplay-Bold.woff
+File Name: C:\Downloaded Web Sites\morphism.agency\fonts\SFProDisplay-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://morphism.agency/fonts/SFProDisplay-Bold.woff2
+File Name: C:\Downloaded Web Sites\morphism.agency\fonts\SFProDisplay-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://morphism.agency/fonts/SFProDisplay-Medium.woff
+File Name: C:\Downloaded Web Sites\morphism.agency\fonts\SFProDisplay-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://morphism.agency/fonts/SFProDisplay-Medium.woff2
+File Name: C:\Downloaded Web Sites\morphism.agency\fonts\SFProDisplay-Medium.woff2
+Content Type: application/octet-stream
+
+Uri: https://morphism.agency/fonts/SFProDisplay-Semibold.woff
+File Name: C:\Downloaded Web Sites\morphism.agency\fonts\SFProDisplay-Semibold.woff
+Content Type: application/font-woff
+
+Uri: https://morphism.agency/fonts/SFProDisplay-Semibold.woff2
+File Name: C:\Downloaded Web Sites\morphism.agency\fonts\SFProDisplay-Semibold.woff2
+Content Type: application/octet-stream
+
+Uri: https://morphism.agency/fonts/StyreneALC-BoldItalic.woff
+File Name: C:\Downloaded Web Sites\morphism.agency\fonts\StyreneALC-BoldItalic.woff
+Content Type: application/font-woff
+
+Uri: https://morphism.agency/fonts/StyreneALC-BoldItalic.woff2
+File Name: C:\Downloaded Web Sites\morphism.agency\fonts\StyreneALC-BoldItalic.woff2
+Content Type: application/octet-stream
+
+Uri: https://morphism.agency/images/cta-new.webp
+File Name: C:\Downloaded Web Sites\morphism.agency\images\cta-new.webp
+Content Type: image/webp
+
+Uri: https://morphism.agency/images/decor-cta.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\decor-cta.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/favicon.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/figures-cta.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\figures-cta.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/figures-top.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\figures-top.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/figures-works.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\figures-works.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/footer.webp
+File Name: C:\Downloaded Web Sites\morphism.agency\images\footer.webp
+Content Type: image/webp
+
+Uri: https://morphism.agency/images/home-master-en.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\home-master-en.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/home-master.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\home-master.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/acquaintance.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\acquaintance.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/design.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\design.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/develop.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\develop.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/fix.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\fix.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/1.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\1.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/10.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\10.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/11.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\11.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/12.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\12.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/13.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\13.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/14.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\14.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/15.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\15.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/16.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\16.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/17.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\17.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/18.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\18.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/19.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\19.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/2.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\2.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/20.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\20.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/3.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\3.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/4.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\4.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/5.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\5.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/6.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\6.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/7.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\7.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/8.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\8.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/logos/9.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\logos\9.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/icons/work.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\icons\work.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/logo-white.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/logo.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/reviews/1.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\reviews\1.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/reviews/2.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\reviews\2.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/reviews/3.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\reviews\3.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/reviews/4.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\reviews\4.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/reviews/5.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\reviews\5.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/reviews/6.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\reviews\6.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/shum.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\shum.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/steps-en.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\steps-en.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/steps-line.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\steps-line.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/steps.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\steps.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/vladimir-en.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\vladimir-en.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/vladimir.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\vladimir.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/works/desktop/1.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\desktop\1.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/works/desktop/2.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\desktop\2.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/works/desktop/3.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\desktop\3.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/works/desktop/5.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\desktop\5.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/works/desktop/6.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\desktop\6.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/works/desktop/fibert-logo.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\desktop\fibert-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/works/desktop/flyswap-logo.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\desktop\flyswap-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/works/desktop/logo-3.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\desktop\logo-3.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/works/desktop/logo-5.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\desktop\logo-5.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/works/desktop/manta-logo.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\desktop\manta-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/works/desktop/spacex-logo.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\desktop\spacex-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/works/desktop/telegram.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\desktop\telegram.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/works/desktop/trainme-logo.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\desktop\trainme-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/works/fibert.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\fibert.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/works/fibert_logo.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\fibert_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/works/flyswap.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\flyswap.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/works/flyswap_logo.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\flyswap_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/works/manta.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\manta.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/works/manta_logo.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\manta_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/works/spacex.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\spacex.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/works/spacex_logo.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\spacex_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/works/telegram.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/images/works/trainme.png
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\trainme.png
+Content Type: image/png
+
+Uri: https://morphism.agency/images/works/trainme_logo.svg
+File Name: C:\Downloaded Web Sites\morphism.agency\images\works\trainme_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://morphism.agency/index.html
+File Name: C:\Downloaded Web Sites\morphism.agency\index.html
+Content Type: text/html
+
+Uri: https://morphism.agency/js/header_and_links.js
+File Name: C:\Downloaded Web Sites\morphism.agency\js\header_and_links.js
+Content Type: application/javascript
+
+Uri: https://morphism.agency/js/infinite-marquee.js
+File Name: C:\Downloaded Web Sites\morphism.agency\js\infinite-marquee.js
+Content Type: application/javascript
+
+Uri: https://morphism.agency/js/main.min.js
+File Name: C:\Downloaded Web Sites\morphism.agency\js\main.min.js
+Content Type: application/javascript
+
